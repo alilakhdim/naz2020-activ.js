@@ -1,1 +1,0 @@
-# naz2020-activ.js
